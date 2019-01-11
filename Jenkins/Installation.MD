@@ -10,6 +10,8 @@ Jenkins is a self-contained Java-based program, ready to run out-of-the-box, wit
 1. Java v1.8.x 
 
 ## Install Java
+<br/>
+wget https://dl.fedoraproject.org/pub/epel/epel-release-latest-7.noarch.rpm
 We will be using open java for our demo, Get latest version from http://openjdk.java.net/install/
 ```sh
 yum install java-1.8*
